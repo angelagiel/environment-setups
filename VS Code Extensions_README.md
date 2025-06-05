@@ -19,3 +19,13 @@
 | HTML CSS Support                            | Adds CSS class and ID IntelliSense to HTML files.                          |![image](https://github.com/user-attachments/assets/ffc76cbe-11ff-4978-afd7-a9192bee1d06)|
 | React Developer Tools (optional)            | If you work with React.js for the frontend.                                |![image](https://github.com/user-attachments/assets/10d1604b-2912-4c2d-a791-709182802210)|
 | IntelliSense for CSS class names in HTML    | Auto-suggests class names from your CSS files.                             |![image](https://github.com/user-attachments/assets/6cc708e0-2f80-4a7b-bf52-87a8450fecf7)|
+
+## AI & Machine Learning
+| Extension                                | Description                                                                 | Reference |
+|------------------------------------------|-----------------------------------------------------------------------------|-------|
+| Jupyter (again, very important)       | Required for running notebooks for training/testing AI models.             |![image](https://github.com/user-attachments/assets/3ac48ca4-ad7f-45ed-8add-df6bef6f3ec2)|
+|TensorFlow Snippets                   | Code snippets for common TensorFlow functions (if you use TensorFlow).     |![image](https://github.com/user-attachments/assets/a62843af-8c47-4354-8d44-061e0cf80868)|
+| PyTorch Snippets                      | Snippets for PyTorch, helpful for object/emotion detection projects.       |![image](https://github.com/user-attachments/assets/a25a12ca-f1e6-4f91-8711-26388fbd2129)|
+| Docker                                | If you're containerizing your ML models.                                   |![image](https://github.com/user-attachments/assets/54f9ec53-de4d-42d8-8251-173125d76126)|
+| ML Models Explorer         | Manage and test ML models directly from VS Code UI.                        |       |
+
